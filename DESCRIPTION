@@ -1,0 +1,14 @@
+Package: survCopula
+Type: Package
+Title: Multivariate Dependence Modeling with Copulas for Survival Data
+Version: 1.1.0
+Date: 2019-10-04
+Author: Gustavo Soutinho and Luís Meira-Machado
+Maintainer: Gustavo Soutinho <gustavosoutinho@sapo.pt>
+Description: Implements practical algorithms for simulating data from a wide class of multivariate copulas. 
+             Sampling algorithms were also used to simulate multivariate survival data in a variety of scenarios.
+Depends: R (>= 3.0.0)
+Encoding: UTF-8
+License: GPL-3
+LazyData: true
+RoxygenNote: 7.1.1
